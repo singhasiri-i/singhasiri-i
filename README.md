@@ -1,10 +1,9 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://drive.google.com/file/d/1YB8iDNC2bEUr5A5biyQAzF-WqJXg8d3k/view?usp=sharing">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F733D5&width=935&height=80&lines=Hello+There!+%F0%9F%91%8B+My+name+is+Issariyaporn+Singhasiri" alt="Typing SVG">
 </p>
 </h1>
 
-===============================================================================================================================================
 
 I'm an HR Operations and HRIS, learning programming skills
 -----------
