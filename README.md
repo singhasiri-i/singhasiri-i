@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Issariyaporn Singhasiri
+Hi there! 👋 I'm Bell, Issariyaporn Singhasiri
 ===============================================================================================================================================
 
-HR and HRIS
+HR Operations and HRIS
 -----------
 
 A results-driven and enthusiastic Project Consultant with 5+ years of experience in HR operations, HRIS project implementation, and project management seeking a challenging role to leverage technical expertise and HR acumen to drive organizational success. Proven ability to implement 10+ HRMS projects across countries to meet local and global clients’ expectations.
 
-* 🖥️  See my portfolio at [My resume](http://www.canva.com/design/DAGMmcba8Fc/pNpLafHMLfdh_orvhxDGBQ/view?utm_content=DAGMmcba8Fc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* 🖥️  See my resume at [here](http://www.canva.com/design/DAGMmcba8Fc/pNpLafHMLfdh_orvhxDGBQ/view?utm_content=DAGMmcba8Fc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * ✉️  You can contact me at [singhasiri.i.b@gmail.com](mailto:singhasiri.i.b@gmail.com)
-* 🚀  I'm currently working on [My programing frontend project about finding food.](http://dish-covery-guide.vercel.app/)
+* 🚀  I'm currently working on [My programming frontend project about finding food.](http://dish-covery-guide.vercel.app/)
 * 🧠  I'm learning Data Analytic, TypeScript, NextJS, Backend Development
 
 ### Skills
