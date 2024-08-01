@@ -1,14 +1,14 @@
-Hi there! 👋 I'm Bell, Issariyaporn Singhasiri
+Hello there! 👋 My name is Issariyaporn Singhasiri
 ===============================================================================================================================================
 
-HR Operations and HRIS
+I'm an HR Operations and HRIS, learning programming skills
 -----------
 
-A results-driven and enthusiastic Project Consultant with 5+ years of experience in HR operations, HRIS project implementation, and project management seeking a challenging role to leverage technical expertise and HR acumen to drive organizational success. Proven ability to implement 10+ HRMS projects across countries to meet local and global clients’ expectations.
+I'm a results-driven and enthusiastic Project Consultant with 5+ years of experience in HR operations, HRIS project implementation, and project management seeking a challenging role to leverage technical expertise and HR acumen to drive organizational success. Proven ability to implement 10+ HRMS projects across countries to meet local and global clients’ expectations.
 
-* 🖥️  See my resume at [here](http://www.canva.com/design/DAGMmcba8Fc/pNpLafHMLfdh_orvhxDGBQ/view?utm_content=DAGMmcba8Fc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-* ✉️  You can contact me at [singhasiri.i.b@gmail.com](mailto:singhasiri.i.b@gmail.com)
-* 🚀  I'm currently working on [My programming frontend project about finding food.](http://dish-covery-guide.vercel.app/)
+* 👩‍💼  Read my resume at [canva](http://www.canva.com/design/DAGMmcba8Fc/pNpLafHMLfdh_orvhxDGBQ/view?utm_content=DAGMmcba8Fc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* 📤  You can contact me at [singhasiri.i.b@gmail.com](mailto:singhasiri.i.b@gmail.com)
+* 💻  I'm currently working on [My programming frontend project about finding food.](http://dish-covery-guide.vercel.app/)
 * 🧠  I'm learning Data Analytic, TypeScript, NextJS, Backend Development
 
 ### Skills
@@ -20,7 +20,7 @@ A results-driven and enthusiastic Project Consultant with 5+ years of experience
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/Bell-Issariyaporn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/singhasiri-i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/issariyaporn-s-72b8411a4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
-<a href="https://github.com/singhasiri-i" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhasiri-i&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/singhasiri-i" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhasiri-i&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
 
