@@ -1,6 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F733D5&width=935&height=80&lines=Hello+There!+%F0%9F%91%8B+My+name+is+Issariyaporn+Singhasiri" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=60&pause=1000&color=F733D5&center=true&vCenter=true&width=970&height=120&lines=Hello+There!+%F0%9F%91%8B+I'm+Bell">
 </p>
 </h1>
 
