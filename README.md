@@ -10,8 +10,7 @@ I'm an HR Operations and HRIS, learning programming skills
 
 > I'm a results-driven and enthusiastic Project Consultant with 5+ years of experience in HR operations, HRIS project implementation, and project management seeking a challenging role to leverage technical expertise and HR acumen to drive organizational success. Proven ability to implement 10+ HRMS projects across countries to meet local and global clients’ expectations.
 
-* 📤  You can contact me at [singhasiri.i.b@gmail.com](mailto:singhasiri.i.b@gmail.com)
-* 💻  I'm currently working on [My programming frontend project about finding food.](http://dish-covery-guide.vercel.app/)
+* 💻  I'm currently working on [My programming frontend project about finding food and recipes.](http://dish-covery-guide.vercel.app/)
 * 🧠  I'm learning Data Analytic, TypeScript, NextJS, Backend Development
 
 ### Languages and Tools:
